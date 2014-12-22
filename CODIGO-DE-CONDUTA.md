@@ -8,7 +8,10 @@ Se um membro da comunidade se envolver em um comportamento abusivo, os organizad
 
 ### **NodeSchool Campinas**
 
-* Organizadores: **Filipe Oliveira** ([@tfmoliveira](http://twitter.com/tfmoliveira)), **Rodrigo Rocha** ([@RodRocha20](http://twitter.com/RodRocha20))
+* Organizadores:
+  * **Filipe Oliveira** - GitHub: [@fmoliveira](https://github.com/fmoliveira), Twitter: [@tfmoliveira](https://twitter.com/tfmoliveira)
+  * **Rodrigo Rocha** - GitHub: [@MiattoRocha](https://github.com/MiattoRocha), Twitter: [@RodRocha20](https://twitter.com/RodRocha20)
+  * **Éderson Nascimento** - GitHub: [@edersonnascimento](https://github.com/edersonnascimento)
 * Links relacionados:
   * Site oficial: http://nodeschool.io/campinas
   * GitHub: https://github.com/nodeschool/campinas
