@@ -8,7 +8,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 ## 1º NodeSchool Campinas
 
-Estamos planejando o 1º NodeSchool em Campinas! Você gostaria de participar ou de nos ajudar? Entre em contato conosco em no tópico do [1º NodeSchool Campinas](https://github.com/nodeschool/campinas/issues/2).
+Estamos planejando o 1º NodeSchool em Campinas! Você gostaria de participar ou de nos ajudar? Entre em contato conosco em no tópico do [1º NodeSchool Campinas](https://github.com/nodeschool/campinas/issues/2) e junte-se ao nosso grupo no Meetup em http://www.meetup.com/Campinas-Nodeschool/.
 
 ## Equipe
 
