@@ -1,4 +1,4 @@
-# Diário de bordo
+# Diário de Bordo
 
 O diário de bordo do Nodeschool Campinas inclui documentos sobre todas as reuniões de organização e meetups realizados.
 
