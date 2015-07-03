@@ -7,6 +7,14 @@ O time de organização do Nodeschool Campinas foi convocado para a 1ª reunião
 * Horário de início: 20:00hs
 * Duração aproximada: 1 hora
 * Local: Shopping Unimart, entrada da praça de alimentação
+* Membros convocados:
+   * Bruno Belarmino
+   * Bruno Panuto
+   * Éderson Nascimento
+   * Felipe Mattos
+   * Filipe Oliveira
+   * Rodolfo Pereira
+   * Rodrigo Rocha
 
 ## Ata de reunião
 * Workshoppers: vamos fazer apenas o Javascripting ou adicionamos a opção de learnyounode?
@@ -28,6 +36,13 @@ O time de organização do Nodeschool Campinas foi convocado para a 1ª reunião
 * Horário de início: ~20:30hs
 * Horário de término: ~21:30hs
 * Local: Shopping Unimart, praça de alimentação
+* Membros presentes:
+   * Bruno Belarmino
+   * Bruno Panuto
+   * Felipe Mattos
+   * Filipe Oliveira
+   * Rodolfo Pereira
+   * Rodrigo Rocha
 
 ## Definições realizadas
 * **Transparência:** O Nodeschool é um evento open source criado e mantido pela comunidade. Então, nada melhor do que transparência! Qualquer um terá acesso a todos os detalhes do evento. É por isto que você está lendo a nossa ata de reunião aqui no GitHub. Nosso balancete também será público. Vamos nos esforçar para que o evento seja sempre gratuito para os estudantes, mas, se for necessário, podemos pedir doações ou cobrar um valor simbólico para participação.
@@ -44,11 +59,13 @@ O time de organização do Nodeschool Campinas foi convocado para a 1ª reunião
    * Sábado: 14:00 às 17:00
 * **Capacidade de estudantes:** 15
 * **Mentores:** Temos um pouco mais de 20 dias para nos preparar para o 1º meetup. Vamos nos dividir em dois grupos, e cada grupo irá se dedicar em um workshopper diferente. Se possível, devemos resolver ambos, mas, priorizem o seu grupo!
-   * Filipe Oliveira (learnyounode)
-   * Bruno Belarmino (learnyounode)
-   * Bruno Panuto (learnyounode)
-   * Felipe Mattos (javascripting)
-   * Rodolfo Pereira (javascripting)
+   * Javascripting:
+      * Felipe Mattos
+      * Rodolfo Pereira
+   * Learn You Node:
+      * Bruno Belarmino
+      * Bruno Panuto
+      * Filipe Oliveira
 * **Taxa de estudantes por mentor:** 3:1 (3 estudantes para cada mentor).
 
 ## Pendências
