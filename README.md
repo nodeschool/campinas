@@ -2,13 +2,21 @@
 
 Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações: http://nodeschool.io/campinas/
 
+## 1º NodeSchool Campinas
+
+### 31/07/2015 - das 19:30hs as 22:30hs
+
+As inscrições para o meetup já estão abertas! Corra pois as vagas são limitadas.
+
+Acesse: http://www.meetup.com/Campinas-Nodeschool/events/223778257/
+
+Por favor remova a confirmação de presença caso mude de ideia.
+
+Certifique-se de instalar o Node.js em seu computador antes da data do evento. Saiba como em: https://nodejs.org/
+
 ## Bate Papo
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/campinas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-## 1º NodeSchool Campinas
-
-Estamos planejando o 1º NodeSchool em Campinas! Você gostaria de participar ou de nos ajudar? Entre em contato conosco em no tópico do [1º NodeSchool Campinas](https://github.com/nodeschool/campinas/issues/2) e junte-se ao nosso grupo no Meetup em http://www.meetup.com/Campinas-Nodeschool/.
 
 ## Equipe
 
