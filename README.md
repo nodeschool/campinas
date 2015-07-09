@@ -8,7 +8,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 As inscrições para o meetup já estão abertas! Corra pois as vagas são limitadas.
 
-Acesse: http://www.meetup.com/Campinas-Nodeschool/events/223778257/
+Acesse: http://www.meetup.com/Nodeschool-Campinas/events/223778257/
 
 Por favor remova a confirmação de presença caso mude de ideia.
 
