@@ -4,7 +4,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 ## 1º NodeSchool Campinas
 
-O nosso primeiro meetup foi realizado no dia 31/07/2015. Agradecimentos especiais a @princiweb pela infraestrutura e pelo coffee break para realização do evento.
+O nosso primeiro meetup foi realizado no dia 31/07/2015. Agradecimentos especiais a [Princi Web](http://www.princiweb.com.br) pela infraestrutura e pelo coffee break para realização do evento.
 
 Fotos do evento: www.meetup.com/Nodeschool-Campinas/photos/26306043/
 
