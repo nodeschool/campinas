@@ -23,12 +23,15 @@
     "programming",
     "campinas"
   ],
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
 }
