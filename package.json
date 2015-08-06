@@ -26,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/nodeschool/campinas/issues"
   },
-  "homepage": "https://github.com/nodeschool/campinas#readme"
+  "homepage": "https://github.com/nodeschool/campinas#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.0.1",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2"
+  }
 }
