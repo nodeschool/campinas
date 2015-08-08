@@ -1,21 +1,40 @@
 {
   "name": "nodeschoolcps",
-  "version": "1.0.0",
-  "description": "nodeschool.io/campinas webpage",
+  "version": "1.1.0",
+  "description": "Official website for Nodeschool Campinas chapter.",
+  "main": "index.html",
   "scripts": {
-    "start": "http-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodeschool/campinas.git"
+    "url": "git+https://github.com/nodeschool/campinas.git"
   },
-  "author": "Filipe Oliveira",
-  "license": "BSD",
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "nodeschool",
+    "school",
+    "learn",
+    "teach",
+    "programming",
+    "campinas"
+  ],
+  "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/nodeschool/campinas/issues"
   },
-  "homepage": "https://nodeschool.io/campinas",
+  "homepage": "https://github.com/nodeschool/campinas#readme",
   "devDependencies": {
-    "http-server": "^0.7.2"
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.0.1",
+    "gulp-livereload": "^3.8.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2"
   }
 }
