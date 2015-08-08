@@ -9,9 +9,11 @@ var gulp = require('gulp'),
 /* Constants. */
 var components = './bower_components';
 var bootstrap = components + '/bootstrap/dist';
+var bootswatch = components + '/bootswatch';
+var theme = bootswatch + '/readable';
 
 var src = {
-	css: bootstrap + '/css/bootstrap.{css,css.map,min.css}',
+	css: theme + '/bootstrap.css',
 	js: bootstrap + '/js/bootstrap.{js,min.js}',
 	icons: bootstrap + '/fonts/*.{eot,svg,ttf,woff,woff2}',
 	sass: './sass/*.{sass,scss}',
@@ -40,6 +42,14 @@ gulp.task('sass', function () {
 /* Copy stylesheets from components. */
 gulp.task('css', function () {
 	gulp.src(src.css)
+		.pipe(gulp.dest(dist.css))
+		.pipe(debug())
+		.pipe(sourcemaps.init())
+			.pipe(minify())
+			.pipe(rename({
+				suffix: '.min'
+			}))
+		.pipe(sourcemaps.write('./'))
 		.pipe(gulp.dest(dist.css))
 		.pipe(debug());
 });
