@@ -54,7 +54,11 @@ body {
   width: 100%;
   height: auto;
 }
-
+.banner {
+  height: 500px;
+  background: #fff url(../img/campinasbg.jpg) no-repeat top center;
+  background-size: cover;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
