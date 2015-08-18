@@ -20,4 +20,3 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 ## Patrocinadores
 
 [![Alt text](patrocinadores/princiweb.png "Princi Web")](http://www.princiweb.com.br)
-[![Alt text](patrocinadores/fmobstudio.png "F>MOB STUDIO")](http://www.fmobstudio.com.br)
