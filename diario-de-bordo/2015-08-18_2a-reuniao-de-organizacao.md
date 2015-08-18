@@ -28,3 +28,4 @@ O time de organização do Nodeschool Campinas foi convocado para a 2ª reunião
 * Definir horário.
 * Sugestão de possíveis patrocinadores para este ou próximo meetup.
 * Limite de estudantes.
+* Punição para estudantes que confirmarem presença e não forem ao evento.
