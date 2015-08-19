@@ -15,7 +15,7 @@ O time de organização do Nodeschool Campinas foi convocado para a 2ª reunião
 
 ## Ata de reunião
 * Workshoppers: qual vamos adicionar?
-  * Vamos adicionar o stream-adventure e o git-it e manter os atuais, sendo assim, teremos 3 opções de workshops.
+  * Vamos adicionar o stream-adventure e o git-it e manter os atuais, sendo assim, teremos 4 opções de workshops.
 * Adicionar perguntas no evento do Meetup sobre nível de experiência dos estudantes.
 * Convidar mais mentores no site e também diretamente.
 * Estratégias de marketing do evento.
