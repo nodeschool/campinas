@@ -2,14 +2,6 @@
 
 Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações: http://nodeschool.io/campinas/
 
-## 1º NodeSchool Campinas
-
-O nosso primeiro meetup foi realizado no dia 31/07/2015. Agradecimentos especiais a [Princi Web](http://www.princiweb.com.br) pela infraestrutura e pelo coffee break para realização do evento.
-
-Fotos do evento: www.meetup.com/Nodeschool-Campinas/photos/26306043/
-
-Meetup: http://www.meetup.com/Nodeschool-Campinas/
-
 ## Bate Papo
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/campinas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -27,5 +19,4 @@ Meetup: http://www.meetup.com/Nodeschool-Campinas/
 
 ## Patrocinadores
 
-[![Alt text](patrocinadores/princiweb.png "Princi Web")](http://www.princiweb.com.br)
-[![Alt text](patrocinadores/fmobstudio.png "F>MOB STUDIO")](http://www.fmobstudio.com.br)
+[![Princi Web](img/patrocinadores/princiweb.png "Princi Web")](http://www.princiweb.com.br)
