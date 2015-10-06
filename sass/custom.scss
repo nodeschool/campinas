@@ -59,4 +59,8 @@ div.brand > img {
 
 .sponsors {
 	margin-bottom: 1em;
+
+	& > a {
+		margin: 0 0.5em;
+	}
 }
