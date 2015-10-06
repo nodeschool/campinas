@@ -19,4 +19,4 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 ## Patrocinadores
 
-[![Princi Web](img/patrocinadores/princiweb.png "Princi Web")](http://www.princiweb.com.br)
+[![Princi Web](img/patrocinadores/princiweb.png "Princi Web")](http://www.princiweb.com.br) [![Minha Campinas](img/patrocinadores/minhacampinas.jpg "Minha Campinas")](http://www.minhacampinas.org.br)
