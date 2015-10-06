@@ -8,7 +8,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 ## Equipe
 
-* Organizadores:
+* Organizadores e Mentores:
    * **Filipe Oliveira:** GitHub: [@fmoliveira](https://github.com/fmoliveira), Twitter: [@tfmoliveira](https://twitter.com/tfmoliveira)
    * **Rodrigo Rocha:** GitHub: [@MiattoRocha](https://github.com/MiattoRocha), Twitter: [@RodRocha20](https://twitter.com/RodRocha20)
    * **Éderson Nascimento:** GitHub: [@edersonnascimento](https://github.com/edersonnascimento)
@@ -16,6 +16,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
    * **Bruno Belarmino:** GitHub: [@brunobelarmino](https://github.com/brunobelarmino), Twitter: [@brbelarmino](https://twitter.com/brbelarmino)
    * **Bruno Panuto:** GitHub: [@nubunto](https://github.com/nubunto)
    * **Rodolfo Pereira:** GitHub: [@rodolfoprr](https://github.com/rodolfoprr), Twitter: [@rodolfoprr](https://twitter.com/rodolfoprr)
+   * **Victor Perin:** GitHub: [@victorperin](https://github.com/victorperin)
 
 ## Patrocinadores
 
