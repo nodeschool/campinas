@@ -6,6 +6,11 @@ Abuso inclui comentários ofensivos de forma verbal ou escrita relacionados a se
 
 Se um membro da comunidade se envolver em um comportamento abusivo, os organizadores da **NodeSchool Campinas** podem tomar quaisquer ações que julgarem apropriadas, incluindo avisar o ofensor ou expulsá-lo da comunidade. Se você sofrer abuso, perceber que alguém está sofrendo abuso, ou tiver qualquer tipo de suspeita, por favor contate um organizador imediatamente.
 
+## **Política de desistência**
+Se por algum motivo o estudante confirmar presença e faltar sem cancelar o RSVP em até 48h antes (ou sem justificativa plausível), estará sujeito as seguintes punições:
+* Primeira falta = não poderá participar do próximo evento.
+* Falta recorrente = não poderá participar dos dois próximos eventos.
+
 ### **NodeSchool Campinas**
 
 * Organizadores:
