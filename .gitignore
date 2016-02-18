@@ -1,5 +1,5 @@
 # Webpack build
-.css
+*.css
 
 # Created by https://www.gitignore.io/api/node
 

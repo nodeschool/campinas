@@ -1,1 +1,22 @@
 @import '_reset'
+
+body
+  display: flex
+  min-height: 100vh
+  flex-direction: column
+
+#wrapper
+  display: flex
+  flex: 1
+
+main
+  flex: 1
+
+nav, aside
+  flex: 0 0 12em
+
+nav
+  order: -1
+
+footer
+  text-align: center
