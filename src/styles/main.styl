@@ -1,22 +1,27 @@
 @import '_reset'
+@import '_menu'
 
 body
-  display: flex
-  min-height: 100vh
-  flex-direction: column
+  display flex
+  min-height 100vh
+  flex-direction column
+
+header
+  text-align center
 
 #wrapper
-  display: flex
-  flex: 1
+  display flex
+  flex 1
 
-main
-  flex: 1
+#main
+  flex 1
+  padding 0 10px
 
-nav, aside
-  flex: 0 0 12em
+#sidebar, #feed
+  flex 0 0 12em
 
-nav
-  order: -1
+#sidebar
+  order -1
 
 footer
-  text-align: center
+  text-align center
