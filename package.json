@@ -37,5 +37,8 @@
     "koa-static": "^2.0.0",
     "koa-stylus": "0.0.3",
     "stylus": "^0.53.0"
+  },
+  "dependencies": {
+    "normalize-styl": "^3.0.3"
   }
 }
