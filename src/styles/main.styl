@@ -3,29 +3,36 @@
 @import '_menu'
 @import '_blockquote'
 
+sidebar-left-width = 12em
+sidebar-right-width = 15em
+
 body
   display flex
   min-height 100vh
   flex-direction column
 
-header
-  text-align center
-
-#wrapper
+header, .wrapper
   display flex
+
+.wrapper
   flex 1
 
-#main
+.container
   flex 1
   padding 0 10px
 
-#sidebar
-  flex 0 0 12em
+.sidebar-left
+  flex 0 0 sidebar-left-width
   order -1
 
-#feed
-  flex 0 0 15em
+.sidebar-right
+  flex 0 0 sidebar-right-width
   order 10
+
+.center
+  display flex
+  align-items center
+  justify-content center
 
 footer
   text-align center
