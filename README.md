@@ -1,6 +1,5 @@
 # NodeSchool Campinas
 
-O NodeSchool Campinas éum evento sem fins lucrativos com o objetivo de disseminar conhecimento sobre a plataforma Node.js e toda stack JavaScript.
+O NodeSchool Campinas é um evento sem fins lucrativos com o objetivo de disseminar conhecimento sobre a plataforma Node.js e toda stack JavaScript.
 
-Mais de 150 cidades espalhadas por todo o mundo realizam eventos no padr�o NodeSchool: tudo mantido por volunt�rois que amam compartilhar conhecimento!
-
+Mais de 150 cidades espalhadas por todo o mundo realizam eventos no padrão NodeSchool: tudo mantido por voluntários que amam compartilhar conhecimento!
