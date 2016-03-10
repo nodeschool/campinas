@@ -4,9 +4,9 @@
   "description": "NodeSchool chapter in Campinas, Brazil.",
   "main": "index.js",
   "scripts": {
-    "build": "node node_modules/stylus/bin/stylus src/styles/ -o src/css",
+    "build": "stylus src/styles/ -o src/css",
     "start": "node .",
-    "test": "node node_modules/eslint/bin/eslint ."
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
