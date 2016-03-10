@@ -4,9 +4,11 @@
   "description": "NodeSchool chapter in Campinas, Brazil.",
   "main": "index.js",
   "scripts": {
-    "build": "stylus src/styles/ -o src/css",
-    "start": "http-server src",
-    "test": "standard"
+    "build:css": "stylus src/styles/",
+    "server": "http-server src",
+    "start": "npm-run-all --parallel watch:* server",
+    "test": "standard",
+    "watch:css": "stylus -w src/styles/"
   },
   "repository": {
     "type": "git",
@@ -36,6 +38,7 @@
   },
   "dependencies": {
     "normalize-styl": "^3.0.3",
+    "npm-run-all": "^1.5.2",
     "standard": "^6.0.8"
   }
 }
