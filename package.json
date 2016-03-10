@@ -34,7 +34,6 @@
     "stylus": "^0.53.0"
   },
   "dependencies": {
-    "colors.css": "^3.0.0",
     "normalize-styl": "^3.0.3",
     "standard": "^6.0.8"
   }
