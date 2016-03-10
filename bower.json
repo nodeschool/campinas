@@ -1,0 +1,38 @@
+{
+  "name": "nodeschoolcps",
+  "version": "1.1.0",
+  "private": true,
+  "homepage": "http://nodeschool.io/campinas/",
+  "authors": [
+    "Filipe Oliveira <contato@fmoliveira.com.br>"
+  ],
+  "description": "Official website for Nodeschool Campinas chapter.",
+  "main": "index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "nodeschool",
+    "school",
+    "learn",
+    "teach",
+    "programming",
+    "campinas"
+  ],
+  "license": "BSD-2-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootswatch": "~3.3.5+2"
+  }
+}
