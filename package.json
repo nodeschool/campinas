@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "stylus src/styles/ -o src/css",
-    "start": "node .",
+    "start": "http-server src",
     "test": "standard"
   },
   "repository": {
@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/nodeschool/campinas#readme",
   "devDependencies": {
+    "http-server": "^0.9.0",
     "stylus": "^0.53.0"
   },
   "dependencies": {
