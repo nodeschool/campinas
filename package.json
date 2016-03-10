@@ -6,7 +6,7 @@
   "scripts": {
     "build": "stylus src/styles/ -o src/css",
     "start": "node .",
-    "test": "eslint ."
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -31,7 +31,6 @@
   },
   "homepage": "https://github.com/nodeschool/campinas#readme",
   "devDependencies": {
-    "eslint": "^2.1.0",
     "koa": "^1.1.2",
     "koa-logger": "^1.3.0",
     "koa-static": "^2.0.0",
@@ -40,6 +39,7 @@
   },
   "dependencies": {
     "colors.css": "^3.0.0",
-    "normalize-styl": "^3.0.3"
+    "normalize-styl": "^3.0.3",
+    "standard": "^6.0.8"
   }
 }
