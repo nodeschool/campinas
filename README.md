@@ -20,16 +20,22 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 ## Patrocinadores
 
-<p style="display: table; margin: 0px auto; text-align:center;">
-  <a style="display: table-cell; vertical-align: middle;" href="http://www.princiweb.com.br">
-    <img src="img/patrocinadores/princiweb.png" alt="Princi Web" style="margin: 0px 30px;">
+<p align="center">
+  <a href="http://www.princiweb.com.br">
+    <img src="img/patrocinadores/princiweb.png" alt="Princi Web">
   </a>
-  
-  <a style="display: table-cell; vertical-align: middle;" href="http://www.minhacampinas.org.br">
-    <img src="img/patrocinadores/minhacampinas.jpg" alt="Minha Campinas" style="margin: 0px 30px;">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href="http://www.minhacampinas.org.br">
+    <img src="img/patrocinadores/minhacampinas.jpg" alt="Minha Campinas">
   </a>
-
-  <a style="display: table-cell; vertical-align: middle;" href="http://www.fmobstudio.com.br">
-    <img src="img/patrocinadores/fmobstudio.png" alt="FMOB STUDIO" style="margin: 0px 30px;">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href="http://www.fmobstudio.com.br">
+    <img src="img/patrocinadores/fmobstudio.png" alt="FMOB STUDIO">
   </a>
 </p>
