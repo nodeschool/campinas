@@ -18,7 +18,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
    * **Rodolfo Pereira:** GitHub: [@rodolfoprr](https://github.com/rodolfoprr), Twitter: [@rodolfoprr](https://twitter.com/rodolfoprr)
    * **Victor Perin:** GitHub: [@victorperin](https://github.com/victorperin)
 
-## Patrocinadores
+## Apoio
 
 <p align="center">
   <a href="http://www.princiweb.com.br">
@@ -30,12 +30,5 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
   &nbsp;
   <a href="http://www.minhacampinas.org.br">
     <img src="img/patrocinadores/minhacampinas.jpg" alt="Minha Campinas">
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="http://www.fmobstudio.com.br">
-    <img src="img/patrocinadores/fmobstudio.png" alt="FMOB STUDIO">
   </a>
 </p>
