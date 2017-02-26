@@ -127,9 +127,12 @@ img.img-circle {
 	}
 }
 
-.features-circle, .features-circle-icon {
-	border-color: $verde;
-	color: $verde;
+.features-circle {
+	.features-circle-icon, & {
+		border-color: $verde;
+		color: $verde;
+	}
+	&:hover { background-color: $cinzaEscuro; }
 }
 
 #inicio {
