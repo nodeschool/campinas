@@ -6,7 +6,8 @@ $fontNodeschool: 'Source Sans Pro', sans-serif;
 
 body {
 	padding-top: 50px;
-	padding-bottom: 20px;
+	padding-bottom: 0;
+	font-family: $fontNodeschool;
 }
 
 .features-circle {
