@@ -81,3 +81,97 @@ img.img-circle {
 	width: 80px;
 	height: 80px;
 }
+
+.nodeschool-campinas-logo {
+	background-image: $nodeschoolCpsPath;
+	background-size: 100%;
+	font-size: 0;
+	width: 180px;
+	height: 105px;
+}
+
+#navbar-main { margin-top: 22px; }
+.navbar { font-family: 'Source Sans Pro', sans-serif; }
+.text-contrast:hover { color: $verde; }
+
+.navbar-default {
+	background-color: $verde;
+	border: none;
+	.navbar-nav>li {
+		&.active a, &.active a:hover {
+			color: $verde;
+			background-color: $cinzaEscuro;
+			border: 2px solid $cinzaEscuro;
+		}
+		a {
+			color: $cinzaEscuro;
+			font-weight: 700;
+			border: 2px solid $cinzaEscuro;
+			letter-spacing: 1px;
+			&:hover {
+				color: $verde;
+				background-color: $cinzaEscuro;
+			}
+		}
+	}
+}
+
+.carousel {
+	padding-top: 55px;
+	.banner {
+		height: 570px;
+		h1 {
+			text-transform: uppercase;
+			font-weight: 900;
+		}
+	}
+}
+
+.features-circle, .features-circle-icon {
+	border-color: $verde;
+	color: $verde;
+}
+
+#inicio {
+	i {
+		margin-right: 10px;
+		position: relative;
+		top: 4px;
+	}
+}
+
+#conheca { padding: 50px 0 70px; }
+#quemSomos, #apoio, #hall { padding: 20px 0 40px; }
+
+#eventos {
+	padding-top: 0;
+	margin-bottom: 0;
+	.data {
+		border: 2px solid $cinzaEscuro;
+		border-radius: 4px;
+		padding: 10px 15px;
+		color: $cinzaEscuro;
+		text-shadow: none;
+		background-color: $verde;
+		font-weight: 700;
+		&:hover {
+			background-color: $cinzaEscuro;
+			text-shadow: none;
+			text-decoration: none;
+			color: $verde;
+		}
+		i {
+			margin-right: 5px;
+			position: relative;
+			top: 2px;
+		}
+	}
+}
+
+footer {
+	height: 70px;
+	padding-top: 25px;
+	background-color: $verde;
+	color: $cinzaEscuro;
+	font-weight: 700;
+}
