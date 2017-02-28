@@ -10,16 +10,23 @@
 	<meta name="robots" content="index, follow" />
 	<meta name="author" content="NodeSchool Campinas <nodeschoolcps@gmail.com>" />
 
-	<link rel="icon" href="favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="favicons/manifest.json">
+	<link rel="mask-icon" href="favicons/safari-pinned-tab.svg" color="#333333">
+	<link rel="shortcut icon" href="favicons/favicon.ico">
+	<meta name="msapplication-config" content="favicons/browserconfig.xml">
+	<meta name="theme-color" content="#333333">
 
 	<title>NodeSchool Campinas</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/carousel.css" rel="stylesheet">
-pr
 	<!-- Custom styles for this template -->
 	<link href="css/custom.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900" rel="stylesheet">
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
@@ -38,7 +45,7 @@ pr
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">NodeSchool Campinas</a>
+				<a class="navbar-brand nodeschool-campinas-logo" href="#">NodeSchool Campinas</a>
 			</div>
 			<div id="navbar-main" class="navbar-collapse collapse pull-right">
 				<ul class="nav navbar-nav">
@@ -53,7 +60,7 @@ pr
 
 	<!-- Carousel
 	================================================== -->
-	<div id="inicio" class="carousel slide">
+	<header id="inicio" class="carousel">
 		<div class="carousel-inner">
 			<div class="item active banner">
 				<div class="container">
@@ -68,9 +75,9 @@ pr
 				</div>
 			</div>
 		</div>
-	</div><!-- /.carousel -->
+	</header><!-- /.carousel -->
 
-	<div id="conheca" class="container" style="padding-top: 90px;">
+	<section id="conheca" class="container">
 		<div class="row text-center">
 			<div class="col-lg-4">
 				<span class="features-circle">
@@ -103,7 +110,7 @@ pr
 
 		<hr>
 
-		<div id="quemSomos" class="row text-center" style="padding-top: 90px;">
+		<div id="quemSomos" class="row text-center">
 			<h2>Organizadores e Mentores</h2>
 			<div class="mentors">
 				<a href="https://github.com/fmoliveira" target="_blank"><img src="https://avatars2.githubusercontent.com/u/3985462?v=3&s=460" class="img-circle" alt="Filipe Oliveira"/></a>
@@ -122,7 +129,7 @@ pr
 
 		<hr>
 
-		<div class="row text-center">
+		<div id="apoio" class="row text-center">
 			<h2>Apoio</h2>
 			<div class="sponsors">
 				<a href="http://www.princiweb.com.br" target="_blank"><img src="img/patrocinadores/princiweb.png" alt="Princi Web - Agência Digital"/></a>
@@ -133,7 +140,7 @@ pr
 
 		<hr>
 
-		<div class="row text-center" style="padding-top: 90px;">
+		<div id="hall" class="row text-center">
 			<h2>Hall da Fama</h2>
 			<p>Pessoas que fizeram a diferença colaborando financeiramente com o NodeSchool Campinas:</p>
 
@@ -158,12 +165,11 @@ pr
 			</div>
 		</div>
 
-		<hr>
-	</div> <!-- /container -->
+	</section> <!-- /container -->
 
 	<!-- Carousel
 	================================================== -->
-	<div id="eventos" class="carousel slide" style="padding-top: 90px;">
+	<section id="eventos" class="carousel slide">
 		<div class="carousel-inner">
 			<div class="item active">
 				<img src="img/meetups/2017-02-04.jpg" alt="Meetup de 04/02/2017">
@@ -171,7 +177,7 @@ pr
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2017-02-04" pubdate="pubdate">
-							<a href="https://www.meetup.com/Nodeschool-Campinas/events/237075758/" class="text-contrast">
+							<a href="https://www.meetup.com/Nodeschool-Campinas/events/237075758/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								04/02/2017
 							</a>
@@ -179,13 +185,13 @@ pr
 					</div>
 				</div>
 			</div>
-			<div class="item active">
+			<div class="item">
 				<img src="img/meetups/2016-07-14.jpg" alt="Meetup de 14/07/2016">
 
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2016-07-14" pubdate="pubdate">
-							<a href="http://www.meetup.com/Nodeschool-Campinas/events/232256867/" class="text-contrast">
+							<a href="http://www.meetup.com/Nodeschool-Campinas/events/232256867/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								14/07/2016
 							</a>
@@ -193,13 +199,13 @@ pr
 					</div>
 				</div>
 			</div>
-			<div class="item active">
+			<div class="item">
 				<img src="img/meetups/2015-11-28.jpg" alt="Meetup de 28/11/2015">
 
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2015-11-28" pubdate="pubdate">
-							<a href="http://www.meetup.com/Nodeschool-Campinas/events/226712981/" class="text-contrast">
+							<a href="http://www.meetup.com/Nodeschool-Campinas/events/226712981/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								28/11/2015
 							</a>
@@ -207,13 +213,13 @@ pr
 					</div>
 				</div>
 			</div>
-			<div class="item active">
+			<div class="item">
 				<img src="img/meetups/2015-10-17.jpg" alt="Meetup de 17/10/2015">
 
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2015-10-17" pubdate="pubdate">
-							<a href="http://www.meetup.com/Nodeschool-Campinas/events/225867417/" class="text-contrast">
+							<a href="http://www.meetup.com/Nodeschool-Campinas/events/225867417/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								17/10/2015
 							</a>
@@ -221,13 +227,13 @@ pr
 					</div>
 				</div>
 			</div>
-			<div class="item active">
+			<div class="item">
 				<img src="img/meetups/2015-09-11.jpg" alt="Meetup de 11/09/2015">
 
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2015-09-11" pubdate="pubdate">
-							<a href="http://www.meetup.com/Nodeschool-Campinas/events/225181645/" class="text-contrast">
+							<a href="http://www.meetup.com/Nodeschool-Campinas/events/225181645/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								11/09/2015
 							</a>
@@ -235,13 +241,13 @@ pr
 					</div>
 				</div>
 			</div>
-			<div class="item active">
+			<div class="item">
 				<img src="img/meetups/2015-07-31.jpg" alt="Meetup de 31/07/2015">
 
 				<div class="container">
 					<div class="carousel-caption">
 						<time datetime="2015-07-31" pubdate="pubdate">
-							<a href="http://www.meetup.com/Nodeschool-Campinas/events/223778257/" class="text-contrast">
+							<a href="http://www.meetup.com/Nodeschool-Campinas/events/223778257/" class="data">
 								<i class="glyphicon glyphicon-calendar"></i>
 								31/07/2015
 							</a>
@@ -250,14 +256,21 @@ pr
 				</div>
 			</div>
 		</div>
-	</div><!-- /.carousel -->
+		<a class="left carousel-control" href="#eventos" role="button" data-slide="prev">
+			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="right carousel-control" href="#eventos" role="button" data-slide="next">
+			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</section><!-- /.carousel -->
 
-	<div class="container">
-		<footer>
+	<footer>
+		<div class="container text-center">
 			<p>NodeSchool Campinas - Comunidade open source e ferramentas educativas para Node.js.</p>
-		</footer>
-	</div> <!-- /container -->
-
+		</div> <!-- /container -->
+	</footer>
 
 	<!-- Bootstrap core JavaScript
 	================================================== -->
@@ -273,6 +286,7 @@ pr
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 	<script src="js/ie10-viewport-bug-workaround.js"></script>
 </body>

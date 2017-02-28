@@ -8,7 +8,7 @@ if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
 
-+function ($) {
+function ($) {
   'use strict';
   var version = $.fn.jquery.split(' ')[0].split('.')
   if ((version[0] < 2 && version[1] < 9) || (version[0] == 1 && version[1] == 9 && version[2] < 1)) {
@@ -25,7 +25,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // CSS TRANSITION SUPPORT (Shoutout: http://www.modernizr.com/)
@@ -85,7 +85,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // ALERT CLASS DEFINITION
@@ -180,7 +180,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // BUTTON PUBLIC CLASS DEFINITION
@@ -301,7 +301,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // CAROUSEL CLASS DEFINITION
@@ -539,7 +539,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // COLLAPSE PUBLIC CLASS DEFINITION
@@ -751,7 +751,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // DROPDOWN CLASS DEFINITION
@@ -917,7 +917,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // MODAL CLASS DEFINITION
@@ -1256,7 +1256,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // TOOLTIP PUBLIC CLASS DEFINITION
@@ -1770,7 +1770,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // POPOVER PUBLIC CLASS DEFINITION
@@ -1879,7 +1879,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // SCROLLSPY CLASS DEFINITION
@@ -2052,7 +2052,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // TAB CLASS DEFINITION
@@ -2208,7 +2208,7 @@ if (typeof jQuery === 'undefined') {
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // AFFIX CLASS DEFINITION
