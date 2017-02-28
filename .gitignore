@@ -35,7 +35,3 @@ bower_components
 .bower-cache
 .bower-registry
 .bower-tmp
-
-# Build
-css/custom.min.css
-css/custom.min.css.map
