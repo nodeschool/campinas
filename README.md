@@ -22,13 +22,20 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
 
 <p align="center">
   <a href="http://www.princiweb.com.br">
-    <img src="img/patrocinadores/princiweb.png" alt="Princi Web">
+    <img src="img/apoio/princiweb.png" alt="Princi Web">
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="http://www.minhacampinas.org.br">
-    <img src="img/patrocinadores/minhacampinas.jpg" alt="Minha Campinas">
+    <img src="img/apoio/minhacampinas.jpg" alt="Minha Campinas">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href="http://www.daitangroup.com/">
+    <img src="img/apoio/daitan.png" alt="Minha Campinas">
   </a>
 </p>
