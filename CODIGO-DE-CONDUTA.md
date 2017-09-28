@@ -2,12 +2,14 @@
 
 Nós, os organizadores do **NodeSchool Campinas**, estamos dedicados a fornecer uma comunidade livre de abuso para todos, independente de sexo, identidade ou expressão de gênero, orientação sexual, inabilidade, aparência física, idade, tamanho do corpo, raça, nacionalidade, ou crenças religiosas. Nós não toleramos abuso de membros da comunidade de nenhuma forma. Os participantes que violarem qualquer uma destas regras podem ser sancionados ou removidos da comunidade, a critério dos organizadores do **NodeSchool Campinas**.
 
-Abuso inclui comentários ofensivos de forma verbal ou escrita relacionados a sexo, identidade ou expressão de gênero, orientação sexual, inabilidade, aparência física, idade, tamanho do corpo, raça, nacionalidade, ou crenças religiosas, intimidação, ameaças, perseguição, fotografias ou gravações abusivas, interrupção insistente de palestras ou outros eventos, contato físico inapropriado, e atenção sexual indesejada. Linguagem e imagens sexuais não são apropriadas em nenhum evento organizado pela **NodeSchool Campinas** ou em qualquer canal de comunicação relacionado. Os membros que forem avisados para que parem com este comportamento abusivo devem obedecer imediatamente. Patrocinadores e expositores também estão sujeitos à política anti-abuso.
+Abuso inclui comentários ofensivos de forma verbal ou escrita relacionados a sexo, identidade ou expressão de gênero, orientação sexual, inabilidade, aparência física, idade, tamanho do corpo, raça, nacionalidade, ou crenças religiosas, intimidação, ameaças, perseguição, fotografias ou gravações abusivas, interrupção insistente de palestras ou outros eventos, contato físico inapropriado, e atenção sexual indesejada. Linguagem, expressões corporais e imagens sexuais não são apropriadas em nenhum evento organizado pela **NodeSchool Campinas** ou em qualquer canal de comunicação relacionado. Membros que praticarem quaisquer atos que constituam abuso serão advertidos, em caso de persistência e/ou reincidência, estarão sujeitos às medidas cabíveis.
 
-Se um membro da comunidade se envolver em um comportamento abusivo, os organizadores da **NodeSchool Campinas** podem tomar quaisquer ações que julgarem apropriadas, incluindo avisar o ofensor ou expulsá-lo da comunidade. Se você sofrer abuso, perceber que alguém está sofrendo abuso, ou tiver qualquer tipo de suspeita, por favor contate um organizador imediatamente.
+> **Organizadores, patrocinadores, expositores, participantes e quaisquer outros envolvidos com a comunidade devem respeitar esse código de conduta.**
+
+Se um membro da comunidade praticar, ainda que indiretamente, comportamento abusivo, os organizadores da **NodeSchool Campinas** podem tomar quaisquer ações que julgarem apropriadas, incluindo advertir o ofensor ou expulsá-lo da comunidade. Se você sofrer abuso, perceber que alguém está sofrendo abuso, ou tiver qualquer tipo de suspeita, por favor contate um organizador imediatamente.
 
 ## **Política de desistência**
-Se por algum motivo o estudante confirmar presença e faltar sem cancelar o RSVP em até 48h antes (ou sem justificativa plausível), estará sujeito as seguintes punições:
+Se por algum motivo o participante confirmar presença e faltar sem cancelar o RSVP em até 48h antes (ou sem justificativa plausível), estará sujeito as seguintes punições:
 * Primeira falta = não poderá participar do próximo evento.
 * Falta recorrente = não poderá participar dos dois próximos eventos.
 
