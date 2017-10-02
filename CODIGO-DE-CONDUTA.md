@@ -8,6 +8,14 @@ Abuso inclui comentários ofensivos de forma verbal ou escrita relacionados a se
 
 Se um membro da comunidade praticar, ainda que indiretamente, comportamento abusivo, os organizadores da **NodeSchool Campinas** podem tomar quaisquer ações que julgarem apropriadas, incluindo advertir o ofensor ou expulsá-lo da comunidade. Se você sofrer abuso, perceber que alguém está sofrendo abuso, ou tiver qualquer tipo de suspeita, por favor contate um organizador imediatamente.
 
+## Incentivo para iniciantes e mulheres
+
+Para melhor atender o público, todos são bem vindos sem nenhum tipo de descriminação como dito anteriormente. Propor espaços para oficinas e atividades onde mulheres sejam protagonistas, e assim acabar com o paradigma que apenas homens dominam este mundo.
+
+## Dojo
+
+Encontros para desenvolvimento de projetos no estilo Dojo. Para no final ter um resultado bastante diversificado de qualquer atividade já proposta
+
 ## **Política de desistência**
 Se por algum motivo o participante confirmar presença e faltar sem cancelar o RSVP em até 48h antes (ou sem justificativa plausível), estará sujeito as seguintes punições:
 * Primeira falta = não poderá participar do próximo evento.
