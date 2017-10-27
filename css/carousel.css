@@ -57,7 +57,7 @@ body {
 }
 .banner {
   height: 500px;
-  background: #fff url(../img/campinasbg.jpg) no-repeat top center;
+  background: #fff url(../img/campinasbg.jpg) no-repeat center center;
   background-size: cover;
 }
 
