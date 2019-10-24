@@ -1,5 +1,5 @@
 ---
-name: Dojo
+name: 🎃 Hacktoberfest
 about: Você pode propor a criação de um meetup no formato hacktoberfest criando issues nesse formato.
 title: '🎃 Hacktoberfest: (dia) - (local)'
 labels: Eventos

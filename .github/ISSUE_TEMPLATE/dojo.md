@@ -1,5 +1,5 @@
 ---
-name: Dojo
+name: 🥋 Dojo
 about: Você pode propor a criação de um meetup de dojo criando issues nesse formato.
 title: '🥋 Dojo: (dia) - (local)'
 labels: Eventos, Dojos

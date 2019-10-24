@@ -1,5 +1,5 @@
 ---
-name: Talks
+name: 🎤 Talks
 about: 'Você pode propor a criação de um meetup de talks criando issues nesse formato. '
 title: '🎤 Talks: (dia) - (local) '
 labels: Eventos, Talks

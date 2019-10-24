@@ -1,5 +1,5 @@
 ---
-name: Workshop
+name: 📚 Workshop
 about: Você pode propor a criação de um meetup de workshop criando issues nesse formato.
 title: '📚 Workshop: (dia) - (local)'
 labels: Eventos, Workshop

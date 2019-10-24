@@ -1,5 +1,5 @@
 ---
-name: NodeBar
+name: 🍺 NodeBar
 about: Você pode propor a criação de um meetup de NodeBar criando issues nesse formato.
 title: '🍺 NodeBar: (dia) - (local)'
 labels: Eventos, NodeBar
