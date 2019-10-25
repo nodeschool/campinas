@@ -1,7 +1,8 @@
 ---
-name: 🎃 Hacktoberfest
-about: Você pode propor a criação de um meetup no formato hacktoberfest criando issues nesse formato.
-title: '🎃 Hacktoberfest: (dia) - (local)'
+name: "\U0001F383 Hacktoberfest"
+about: Você pode propor a criação de um meetup no formato hacktoberfest criando issues
+  nesse formato.
+title: "\U0001F383 Hacktoberfest: (dia) - (local)"
 labels: Eventos
 assignees: victorperin
 

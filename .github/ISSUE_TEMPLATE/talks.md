@@ -1,8 +1,8 @@
 ---
-name: 🎤 Talks
+name: "\U0001F3A4 Talks"
 about: 'Você pode propor a criação de um meetup de talks criando issues nesse formato. '
-title: '🎤 Talks: (dia) - (local) '
-labels: Eventos, Talks
+title: "\U0001F3A4 Talks: (dia) - (local) "
+labels: Eventos
 assignees: victorperin
 
 ---
