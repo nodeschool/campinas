@@ -1,8 +1,8 @@
 ---
-name: 🥋 Dojo
+name: "\U0001F94B Dojo"
 about: Você pode propor a criação de um meetup de dojo criando issues nesse formato.
-title: '🥋 Dojo: (dia) - (local)'
-labels: Eventos, Dojos
+title: "\U0001F94B Dojo: (dia) - (local)"
+labels: Eventos
 assignees: victorperin
 
 ---

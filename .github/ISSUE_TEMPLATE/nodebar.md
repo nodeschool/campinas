@@ -1,7 +1,7 @@
 ---
-name: 🍺 NodeBar
+name: "\U0001F37A NodeBar"
 about: Você pode propor a criação de um meetup de NodeBar criando issues nesse formato.
-title: '🍺 NodeBar: (dia) - (local)'
+title: "\U0001F37A NodeBar: (dia) - (local)"
 labels: Eventos, NodeBar
 assignees: victorperin
 
