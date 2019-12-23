@@ -1,16 +1,16 @@
 /* eslint-env node */
-const path = require(`path`);
+const path = require(`path`)
 module.exports = {
   siteMetadata: {
-    title: `NodeSchool Vancouver`,
-    description: `Website for NodeSchool Vancouver.`,
-    author: `@nodeschoolyvr`,
-    twitter: `NodeSchoolYVR`,
-    github: `nodeschool/vancouver`,
-    url: `https://nodeschool.io/vancouver/`,
+    title: `NodeSchool Campinas`,
+    description: `Website for NodeSchool Campinas.`,
+    author: `@pethersonmoreno`,
+    twitter: ``,
+    github: `nodeschool/campinas`,
+    url: `https://nodeschool.io/campinas/`,
     slack: ``,
-    meetupGroup: `nodeschool-vancouver`,
-    email: `organizers@nodeschoolyvr.com`,
+    meetupGroup: `Nodeschool-Campinas`,
+    email: `pethermoreno@gmail.com`,
     mailchimpSubscribeUrl: `https://nodeschoolyvr.us20.list-manage.com/subscribe/post?u=703e823487e1f52bfbe0cc32d&amp;id=34f1146956`,
     credits: {
       logo: {
@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `NodeSchool Vancouver`,
+        name: `NodeSchool Campinas`,
         short_name: `nodeschool`,
         start_url: `/`,
         background_color: `#663399`,
@@ -31,7 +31,9 @@ module.exports = {
         display: `minimal-ui`,
         icon: path.relative(
           __dirname,
-          require.resolve(`gatsby-theme-nodeschool/src/images/nodeschool-logo.png`),
+          require.resolve(
+            `gatsby-theme-nodeschool/src/images/nodeschool-logo.png`
+          )
         ),
       },
     },
@@ -50,14 +52,14 @@ module.exports = {
     {
       resolve: `gatsby-theme-nodeschool`,
       options: {
-        title: `NodeSchool Vancouver`,
-        description: `Website for NodeSchool Vancouver.`,
-        twitter: `@NodeSchoolYVR`,
-        github: `nodeschool/vancouver`,
-        url: `https://nodeschool.io/vancouver/`,
+        title: `NodeSchool Campinas`,
+        description: `Website for NodeSchool Campinas.`,
+        twitter: ``,
+        github: `nodeschool/campinas`,
+        url: `https://nodeschool.io/campinas/`,
         slack: ``,
-        meetupGroup: `nodeschool-vancouver`,
-        email: `organizers@nodeschoolyvr.com`,
+        meetupGroup: `Nodeschool-Campinas`,
+        email: `pethermoreno@gmail.com`,
         mailchimpSubscribeUrl: `https://nodeschoolyvr.us20.list-manage.com/subscribe/post?u=703e823487e1f52bfbe0cc32d&amp;id=34f1146956`,
         credits: {
           logo: {
@@ -68,4 +70,4 @@ module.exports = {
       },
     },
   ].filter(Boolean),
-};
+}

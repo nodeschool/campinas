@@ -1,10 +1,10 @@
 {
-  "name": "nodeschool-vancouver-gatsby",
+  "name": "nodeschool-campinas-gatsby",
   "private": true,
-  "description": "Website for nodeschool vancouver",
+  "description": "Website for Nodeschool Campinas",
   "version": "0.1.0",
-  "author": "Nodeschool YVR <organizers@nodeschoolyvr.com>",
-  "homepage": "https://nodeschool.io/vancouver/",
+  "author": "Nodeschool Campinas <pethermoreno@gmail.com>",
+  "homepage": "https://nodeschool.io/campinas/",
   "dependencies": {
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.22",
@@ -71,9 +71,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodeschool/vancouver"
+    "url": "https://github.com/nodeschool/campinas"
   },
   "bugs": {
-    "url": "https://github.com/nodeschool/vancouver/issues"
+    "url": "https://github.com/nodeschool/campinas/issues"
   }
 }
