@@ -1,23 +1,9 @@
 /* eslint-env node */
-const path = require(`path`)
+const path = require(`path`);
 module.exports = {
   siteMetadata: {
     title: `NodeSchool Campinas`,
     description: `Website for NodeSchool Campinas.`,
-    author: `@pethersonmoreno`,
-    twitter: ``,
-    github: `nodeschool/campinas`,
-    url: `https://nodeschool.io/campinas/`,
-    slack: ``,
-    meetupGroup: `Nodeschool-Campinas`,
-    email: `pethermoreno@gmail.com`,
-    mailchimpSubscribeUrl: `https://nodeschoolyvr.us20.list-manage.com/subscribe/post?u=703e823487e1f52bfbe0cc32d&amp;id=34f1146956`,
-    credits: {
-      logo: {
-        name: `Kenneth Ormandy`,
-        url: `https://kennethormandy.com/`,
-      },
-    },
   },
   plugins: [
     {
@@ -32,8 +18,8 @@ module.exports = {
         icon: path.relative(
           __dirname,
           require.resolve(
-            `gatsby-theme-nodeschool/src/images/nodeschool-logo.png`
-          )
+            `gatsby-theme-nodeschool/src/images/nodeschool-logo.png`,
+          ),
         ),
       },
     },
@@ -54,6 +40,7 @@ module.exports = {
       options: {
         title: `NodeSchool Campinas`,
         description: `Website for NodeSchool Campinas.`,
+        defaultLanguage: `pt-BR`,
         twitter: ``,
         github: `nodeschool/campinas`,
         url: `https://nodeschool.io/campinas/`,
@@ -70,4 +57,4 @@ module.exports = {
       },
     },
   ].filter(Boolean),
-}
+};

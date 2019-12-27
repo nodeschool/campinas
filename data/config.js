@@ -2,7 +2,7 @@
 module.exports = {
   title: `NodeSchool Campinas`,
   description: `Website for NodeSchool Campinas.`,
-  author: `@pethersonmoreno`,
+  defaultLanguage: `pt-BR`,
   twitter: ``,
   github: `nodeschool/campinas`,
   slack: ``,
@@ -15,4 +15,4 @@ module.exports = {
       url: `https://kennethormandy.com/`,
     },
   },
-}
+};
