@@ -3,7 +3,7 @@
   "private": true,
   "description": "Website for Nodeschool Campinas",
   "version": "0.1.0",
-  "author": "Nodeschool Campinas <pethermoreno@gmail.com>",
+  "author": "Nodeschool Campinas <nodeschoolcps@gmail.com>",
   "homepage": "https://nodeschool.io/campinas/",
   "dependencies": {
     "@emotion/core": "^10.0.22",
