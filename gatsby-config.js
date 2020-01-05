@@ -44,7 +44,7 @@ module.exports = {
         twitter: ``,
         github: `nodeschool/campinas`,
         url: `https://nodeschool.io/campinas/`,
-        slack: ``,
+        slack: `https://nodeschoolcampinas.herokuapp.com`,
         meetupGroup: `Nodeschool-Campinas`,
         email: `nodeschoolcps@gmail.com`,
         mailchimpSubscribeUrl: `https://nodeschoolyvr.us20.list-manage.com/subscribe/post?u=703e823487e1f52bfbe0cc32d&amp;id=34f1146956`,
