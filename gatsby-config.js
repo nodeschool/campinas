@@ -10,17 +10,26 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `NodeSchool Campinas`,
+        description: `Site do NodeSchool Campinas`,
         short_name: `nodeschool`,
+        lang: `pt-BR`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#629689`,
+        theme_color: `#629689`,
         display: `minimal-ui`,
         icon: path.relative(
           __dirname,
           require.resolve(
-            `gatsby-theme-nodeschool/src/images/nodeschool-logo.png`,
+            `./data/nodeschool-chapter-logo.svg`,
           ),
         ),
+        localize: [
+          {
+            start_url: `/en/`,
+            lang: `en`,
+            description: `NodeSchool Campinas Site`,
+          },
+        ],
       },
     },
     {
