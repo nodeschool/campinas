@@ -59,7 +59,7 @@
   "scripts": {
     "build": "TZ=UTC gatsby build",
     "build:pp": "TZ=UTC gatsby build --prefix-paths",
-    "clean": "rm -rf public",
+    "clean": "gatsby clean",
     "develop": "gatsby develop -p 3000 -H 0.0.0.0",
     "deploy": "npm run clean && npm run build:pp && npm run deploy:github",
     "deploy:github": "gh-pages -d public",
