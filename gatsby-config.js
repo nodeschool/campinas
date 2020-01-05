@@ -41,7 +41,7 @@ module.exports = {
         title: `NodeSchool Campinas`,
         description: `Website for NodeSchool Campinas.`,
         defaultLanguage: `pt-BR`,
-        twitter: ``,
+        twitter: `victor_perin`,
         github: `nodeschool/campinas`,
         url: `https://nodeschool.io/campinas/`,
         slack: `https://nodeschoolcampinas.herokuapp.com`,
