@@ -48,7 +48,7 @@ module.exports = {
       resolve: `gatsby-theme-nodeschool`,
       options: {
         title: `NodeSchool Campinas`,
-        description: `Website for NodeSchool Campinas.`,
+        description: `Website do NodeSchool Campinas.`,
         defaultLanguage: `pt-BR`,
         twitter: `victor_perin`,
         github: `nodeschool/campinas`,
